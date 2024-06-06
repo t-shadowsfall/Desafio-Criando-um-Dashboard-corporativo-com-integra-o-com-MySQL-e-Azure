@@ -1,4 +1,4 @@
-# Desafio-Criando-um-Dashboard-corporativo-com-integra-o-com-MySQL-e-Azure
+# Desafio: Criando um Dashboard corporativo com integração com MySQL e Azure
 **_Desafio do Bootcamp Python Data Analytics -  Visualização e Análise de Dados com Power BI_**
 
 ##
@@ -69,10 +69,10 @@ _Utilize o Script:_
                                 (888665555, 20, 0.0);
 ```
 
-## 3. Execute a tratativa dos dados conforme instruções;
+## 3. Execute a tratativa dos dados conforme instruções do projeto;
 
 ## 4. Realize a integração entre Power BI e Azure;
 
 ## 5. Verifique eventuais problemas na base de dados;
 
-## 6. Crie os visuais.
+## 6. Elabore os visuais seguindo as instruções do projeto.
