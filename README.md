@@ -1,12 +1,15 @@
 # Desafio: Criando um Dashboard corporativo com integração com MySQL e Azure
-**_Desafio do Bootcamp Python Data Analytics -  Visualização e Análise de Dados com Power BI_**
+[**_Desafio do Bootcamp Python Data Analytics -  Visualização e Análise de Dados com Power BI_**](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EdffxWqDbGVJot3p7_g_NVUBShVwWq09KWr-PGW_aAegdw?rtime=DHNpE_KH3Eg)
 
 ##
 
-# Mind Map 
+# Trilha
 
 ## 1. Azure:
-_Crie uma conta no Azure e configurar um banco de Dados SQL_
+_Criar uma conta no Azure e configurar um banco de Dados SQL_
+
+##### _Links úteis_:
+- [Azure](https://azure.microsoft.com/pt-br/free/search/?ef_id=_k_3f1e9d6652db13439746fb0525512caf_k_&OCID=AIDcmmzmnb0182_SEM__k_3f1e9d6652db13439746fb0525512caf_k_&msclkid=3f1e9d6652db13439746fb0525512caf)
 
 ## 2. Inserção de Dados:
 _Utilize o Script:_
@@ -70,6 +73,9 @@ _Utilize o Script:_
 ```
 
 ## 3. Execute a tratativa dos dados conforme instruções do projeto;
+
+##### _Links Úteis_:
+- [Instruções](https://academiapme-my.sharepoint.com/:w:/g/personal/renato_dio_me/EVxAxO7akV5FoNy3mOk_3QwB3wKeyXMaFUi3ekTLQkY_sA?rtime=gxHki7-F3Eg)
 
 ## 4. Realize a integração entre Power BI e Azure;
 
